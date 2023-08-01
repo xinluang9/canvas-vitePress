@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: canvas指南
-      link: /src/basicOne
+      link: /src/01-basicOne
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
