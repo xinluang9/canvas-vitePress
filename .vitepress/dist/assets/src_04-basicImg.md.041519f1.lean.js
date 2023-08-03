@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.a3e4ade3.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/04-basicImg.md"}'),s={name:"src/04-basicImg.md"};function c(r,o,n,i,_,m){return t(),a("div")}const f=e(s,[["render",c]]);export{d as __pageData,f as default};

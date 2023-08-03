@@ -245,4 +245,29 @@ ctx.createRadialGradient(x0, y0, r0, x1, y1, r1)
         render()
   ```
 
+## 阴影
 
+以下属性用于设置阴影。
+
+* `CanvasRenderingContext2D.shadowBlur`：阴影的模糊程度，默认为0。
+* `CanvasRenderingContext2D.shadowColor`：阴影的颜色，默认为black。
+* `CanvasRenderingContext2D.shadowOffsetX`：阴影的水平位移，默认为0。
+* `CanvasRenderingContext2D.shadowOffsetY`：阴影的垂直位移，默认为0。
+
+
+下面是一个例子。
+
+```javascript
+var canvas = document.getElementById('myCanvas');
+var ctx = canvas.getContext('2d');
+
+ctx.shadowOffsetX = 10;
+ctx.shadowOffsetY = 10;
+ctx.shadowBlur = 5;
+ctx.shadowColor = 'rgba(0,0,0,0.5)';
+
+ctx.fillStyle = 'green';
+ctx.fillRect(10, 10, 100, 100);
+```
+
+![](http://zxjp-dzg-1301158478.cos.ap-shanghai.myqcloud.com/Image/2023-8-1/Snipaste_2023-08-01_16-19-45.png)

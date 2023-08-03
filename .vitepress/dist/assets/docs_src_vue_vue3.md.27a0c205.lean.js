@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,U as l}from"./chunks/framework.a3e4ade3.js";const u=JSON.parse('{"title":"Vue3","description":"","frontmatter":{},"headers":[],"relativePath":"docs/src/vue/vue3.md"}'),e={name:"docs/src/vue/vue3.md"},p=l("",19),o=[p];function t(i,c,r,h,d,C){return a(),n("div",null,o)}const A=s(e,[["render",t]]);export{u as __pageData,A as default};

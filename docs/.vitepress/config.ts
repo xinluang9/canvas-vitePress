@@ -5,7 +5,7 @@ export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
   srcDir: './src',
-  base: '/blog/',
+  base: '/canvas-vitePress.top/',
   themeConfig: {
     siteTitle: 'Hello World',
     // https://vitepress.dev/reference/default-theme-config

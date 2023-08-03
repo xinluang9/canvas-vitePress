@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,U as l}from"./chunks/framework.a3e4ade3.js";const d=JSON.parse('{"title":"canvas绘制基本图形","description":"","frontmatter":{},"headers":[],"relativePath":"src/02-basicTwo.md"}'),p={name:"src/02-basicTwo.md"},e=l("",88),c=[e];function o(t,i,r,C,A,y){return a(),n("div",null,c)}const D=s(p,[["render",o]]);export{d as __pageData,D as default};
