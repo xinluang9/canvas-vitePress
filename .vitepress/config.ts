@@ -27,7 +27,8 @@ export default defineConfig({
           { text: '04-绘制图像和视频', link: '/src/04-basicImg' },
           { text: '05-绘制文本', link: '/src/05-basicFive' },
           { text: '06-几何变换', link: '/src/06-basicSix' },
-          { text: '07-合成与剪裁', link: '/src/06-basicSix' },
+          { text: '07-合成与剪裁', link: '/src/07-basicSenve' },
+          { text: '08-像素', link: '/src/08-basicEight' }
         ]
       }
     ],
